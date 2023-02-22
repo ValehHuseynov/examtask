@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "id": "b7558b77-02c5-4714-bd82-6a2edf9330d1",
+      "title": "Question 1",
+      "answers": [
+        {
+          "variant": "A",
+          "questionAnswer": "Answer A",
+          "isCorrent": false
+        },
+        {
+          "variant": "B",
+          "questionAnswer": "Answer B",
+          "isCorrent": true
+        },
+        {
+          "variant": "C",
+          "questionAnswer": "Answer C",
+          "isCorrent": false
+        },
+        {
+          "variant": "D",
+          "questionAnswer": "Answer D",
+          "isCorrent": false
+        }
+      ]
+    },
+    {
+      "id": "da0e7677-51f1-427f-bc30-5f2516d1ce13",
+      "title": "Question 2",
+      "answers": [
+        {
+          "variant": "A",
+          "questionAnswer": "Answer A",
+          "isCorrent": true
+        },
+        {
+          "variant": "B",
+          "questionAnswer": "Answer B",
+          "isCorrent": false
+        },
+        {
+          "variant": "C",
+          "questionAnswer": "Answer C",
+          "isCorrent": false
+        },
+        {
+          "variant": "D",
+          "questionAnswer": "Answer D",
+          "isCorrent": false
+        }
+      ]
+    },
+    {
+      "id": "f89da65c-6269-4f71-9e80-8c21ac946a9c",
+      "title": "Aşagıdakı cavablardan hansı javascript tipi deyil?",
+      "answers": [
+        {
+          "variant": "A",
+          "questionAnswer": "string",
+          "isCorrent": false
+        },
+        {
+          "variant": "B",
+          "questionAnswer": "number",
+          "isCorrent": false
+        },
+        {
+          "variant": "C",
+          "questionAnswer": "decimal",
+          "isCorrent": true
+        },
+        {
+          "variant": "D",
+          "questionAnswer": "object",
+          "isCorrent": false
+        }
+      ]
+    }
+  ]
+}
